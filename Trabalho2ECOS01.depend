@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637801825 source:c:\users\gabak\onedrive\workplace\unifeia\periodo6\ecos01\trabalho2\trabalho2ecos01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
